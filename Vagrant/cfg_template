@@ -1,0 +1,11 @@
+vm.box: 		"" # 
+access_key_id: 		"" # 
+secret_access_key: 	"" # 
+keypair_name: 		"" # 
+ssh_private_key_path: 	"" # 
+availability_zone: 	"" # 
+region: 		"" # 
+instance_type: 		"" # 
+security_groups: 	"" # 
+ami: 			"" # 
+ssh_username: 		"" # 
